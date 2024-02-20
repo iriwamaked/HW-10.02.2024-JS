@@ -1,0 +1,41 @@
+*{margin: 0; padding: 0; box-sizing: border-box;}
+
+body{
+    margin: 1rem;
+}
+
+
+div{
+    border: 2px solid grey;
+    text-align: center;
+    box-shadow: 2px 2px 2px lightgray;
+    border-radius: 5px;
+    margin: 1rem;
+}
+label{
+    display: block;
+    margin: 10px;
+}
+
+input{
+    display: block;
+    margin: 0 auto;
+}
+
+button{
+    display: inline-block;
+    margin: 5px auto;
+    padding: 6px;
+    background-color: blue;
+    color: white;
+
+}
+
+span{
+    padding: 5px;
+    color: white;
+    margin:10px;
+    /* border: 2px solid #6552BA; */
+}
+
+
